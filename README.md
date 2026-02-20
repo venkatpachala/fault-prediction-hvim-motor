@@ -96,10 +96,3 @@ No incipient/gradual fault severity detection
 No windowing applied to FFT analysis
 Tech Stack
 MATLAB/Simulink | Python | scikit-learn | scikit-fuzzy | Streamlit | Plotly
-
-text
-
-
----
-
-This is **concise, scannable, and covers everything** someone needs to understand and run your project. Want me to start on the report and PPT now?
