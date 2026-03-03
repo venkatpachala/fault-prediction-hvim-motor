@@ -17,29 +17,6 @@ Comparative study of Random Forest (ML) and Mamdani Fuzzy Logic for fault classi
 
 ---
 
-## Project Structure
-├── inductionmain.slx # Simulink motor model
-├── extract_features.m # MATLAB feature extraction (19 features)
-├── retrain_from_csvs.py # Train Random Forest from dataset
-├── fuzzy_diagnosis.py # Fuzzy Logic system (4 inputs, 11 rules)
-├── dashboard.py # Streamlit web app (dual prediction)
-├── dataset/ # 800 CSVs (200 per fault class)
-│ ├── healthy/
-│ ├── voltage_unbalance/
-│ ├── broken_rotor_bar/
-│ └── stator_fault/
-├── ml_model.pkl # Trained RF model
-├── features.pkl # Feature names list
-├── extract_features.csv # Training dataset (800 × 20)
-├── ml_results.png # ML confusion matrix
-├── fuzzy_results.png # Fuzzy confusion matrix
-└── fuzzy_membership_functions.png
-
-text
-
-
----
-
 ## Quick Start
 
 ### Install Dependencies
