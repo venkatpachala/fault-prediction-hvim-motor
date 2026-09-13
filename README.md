@@ -1,4 +1,4 @@
-# High Voltage Induction Motor Fault Diagnosis: ML vs Fuzzy Logic
+# High Voltage Induction Motor Fault Diagnosis: Machine Learning vs Fuzzy Logic
 
 Comparative study of Random Forest (ML) and Mamdani Fuzzy Logic for fault classification in High Voltage Induction Motors using MATLAB Simulink simulation data.
 
